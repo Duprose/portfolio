@@ -1,0 +1,3 @@
+name KANKO KAMEDJEU DUPLEX
+class l300
+mat FE21A210
