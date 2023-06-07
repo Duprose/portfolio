@@ -30,7 +30,7 @@ const Contact = () => {
             <article className="contact__option">
               <MdOutlineEmail className="contact__option__icon" />
               <h4>Email</h4>
-              <h5>myEmail@gmail.com</h5>
+              <h5>duplexkamedjeu@gmail.com</h5>
               <a
                 href="mailto:duplexkamedjeu@gmail.com"
                 target="_blank"
@@ -45,7 +45,7 @@ const Contact = () => {
               <h4>LinkedIn</h4>
               <h5>Profile</h5>
               <a
-                href="https://www.linkedin.com/in/brown-djomo-844b96164/"
+                href="https://www.linkedin.com/in/duplexkamedjeu.com/"
                 target="_blank"
                 rel="noreferrer"
               >
