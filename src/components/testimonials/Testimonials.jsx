@@ -43,14 +43,14 @@ export const Testimonial = () => {
     {
       id: 4,
       testimonial:
-        "Duplexk was able to quickly understand the project requirements and provided excellent solutions that exceeded our expectationssequi quidem obcaecati! Veritatis repellendus provident neque. Porro, id illum iure soluta vel alias, maiores tempora doloremque vitae neque maxime at, facilis ipsum molestiae dicta quasi harum optio atque deserunt quis amet consectetur perspiciatis.",
+        "Duplexk was able to quickly understand the project requirements and provided excellent solutions that exceeded our expectations.",
       avatar: AV3,
       Cname: "Client 4",
     },
     {
       id: 5,
       testimonial:
-        "Duplexk was able to quickly understand the project requirements and provided excellent solutions that exceeded our expectations sequi quidem obcaecati! Veritatis repellendus provident neque. Porro, id illum iure soluta vel alias, maiores tempora doloremque vitae neque maxime at, facilis ipsum molestiae dicta quasi harum optio atque deserunt quis amet consectetur perspiciatis.",
+        "Duplexk was able to quickly understand the project requirements and provided excellent solutions that exceeded our expectations .",
       avatar: AV5,
       Cname: "Client 5",
     },

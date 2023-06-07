@@ -8,13 +8,13 @@ import './footer.css'
 const Footer = () => {
     return (
       <div className="footer__container">
-        <a href="#" className="footer__logo">
+       <a href="https://www.yourwebsite.com" className="footer__logo">
          KANKO DUPLEX ENG
         </a>
 
         <ul className="permalinks">
           <li>
-            <a href="#">Home</a>
+          <a href="https://www.example.com">Home</a>
           </li>
           <li>
             <a href="#about">About</a>
